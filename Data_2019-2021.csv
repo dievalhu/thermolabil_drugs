@@ -1,0 +1,723 @@
+Id,Therapeutic Action of the Product,Product Concentration (mg),Shipping City,Number of Products Shipped,Number of Box Coolers,Cooler Internal Volume (liter),Cooler Outlet Temperature (°C),Shipping Date (dd/mm/yyyy),Average Kinetic Temperature (°C),Maximum Temperature(8 °C),Minimum Temperature(2 °C),State
+1,Antineoplastic,20,Quito,53,3,80,4.6,23/04/2019,4,6,3,compliance
+2,Antineoplastic,20,Quito,147,3,80,4.6,23/04/2019,4,6,3,compliance
+3,Antineoplastic,80,Guayaquil ,15,3,80,4.6,16/05/2019,4,7,3,compliance
+4,Antineoplastic,80,Guayaquil ,185,3,80,4.6,16/05/2019,4,7,3,compliance
+5,Antineoplastic,100,Quito,300,3,80,5,11/06/2019,3.7,6.1,2.4,compliance
+6,Antineoplastic,300,Guayaquil ,50,3,80,4.5,24/06/2019,1.8,5,1.8,non-compliance 
+7,Antineoplastic,300,Guayaquil ,50,3,80,4.5,24/06/2019,3,7,1.8,non-compliance 
+8,Antineoplastic,300,Guayaquil ,50,3,80,4.5,24/06/2019,3,5,3,compliance
+9,Antineoplastic,20,Ambato ,200,3,80,4.6,04/07/2019,3.6,5.6,2.9,compliance
+10,Antineoplastic,80,Guayaquil ,200,3,80,5,16/07/2019,3.6,6.3,3.1,compliance
+11,Antineoplastic,100,Guayaquil ,400,3,80,4.8,05/08/2019,2.1,4.6,1.4,non-compliance 
+12,Antineoplastic,100,Guayaquil ,400,3,80,4.8,05/08/2019,4,4,4,compliance
+13,Antineoplastic,300,Guayaquil ,10,3,80,4.2,14/08/2019,4,6,3,compliance
+14,Antineoplastic,300,Guayaquil ,20,3,80,4.2,14/08/2019,3,6,2.4,compliance
+15,Antineoplastic,300,Guayaquil ,20,3,80,4.2,14/08/2019,3,5,3,compliance
+16,Antineoplastic,80,Guayaquil ,100,3,80,4.3,21/08/2019,5,5,5,compliance
+17,Antineoplastic,80,Guayaquil ,100,3,80,4.3,21/08/2019,5,5,5,compliance
+18,Antineoplastic,100,Quito,2,1,80,4.5,14/10/2019,5,6,4,compliance
+19,Antineoplastic,150,Quito,3,1,80,4.5,14/10/2019,5,6,4,compliance
+20,Antineoplastic,30,Quito,2,1,80,4.5,14/10/2019,5,6,4,compliance
+21,Antineoplastic,20,Quito,4,1,80,4.5,14/10/2019,5,6,4,compliance
+22,Antineoplastic,80,Quito,4,1,80,4.5,14/10/2019,5,6,4,compliance
+23,Granulocyte Stimulator,0.3,Quito,8,1,80,4.5,14/10/2019,5,6,4,compliance
+24,Antineoplastic,100,Guayaquil ,12,1,25,5,14/10/2019,4.2,5.7,3.2,compliance
+25,Antineoplastic,300,Cuenca,2,1,80,5,14/10/2019,2.6,5.3,1.9,non-compliance 
+26,Antineoplastic,20,Cuenca,6,1,80,5,14/10/2019,2.6,5.3,1.9,non-compliance 
+27,Antineoplastic,80,Cuenca,3,1,80,5,14/10/2019,2.6,5.3,1.9,non-compliance 
+28,Antineoplastic,150,Guayaquil ,4,1,25,5,14/10/2019,3.7,6,2,compliance
+29,Antineoplastic,150,Guayaquil ,2,1,25,5,14/10/2019,3.1,5.6,1.4,non-compliance 
+30,Antineoplastic,20,Guayaquil ,6,1,25,4.8,14/10/2019,3.5,6.6,2.2,compliance
+31,Antineoplastic,80,Guayaquil ,6,1,25,4.8,14/10/2019,3.5,6.6,2.2,compliance
+32,Antineoplastic,100,Guayaquil ,4,1,25,4.3,15/10/2019,4.2,6.8,3.6,compliance
+33,Antineoplastic,30,Guayaquil ,4,1,25,4.3,15/10/2019,4.2,6.8,3.6,compliance
+34,Antineoplastic,150,Quito,2,1,25,5,15/10/2019,4,7,2,compliance
+35,Antineoplastic,20,Guayaquil ,8,1,25,4.8,15/10/2019,3,7,2,compliance
+36,Antineoplastic,80,Guayaquil ,3,1,25,4.8,15/10/2019,3,7,2,compliance
+37,Antineoplastic,150,Guayaquil ,5,1,25,4.8,15/10/2019,2,6,2,compliance
+38,Antineoplastic,20,Quito,3,1,25,4.5,14/10/2019,5,5,4,compliance
+39,Antineoplastic,80,Quito,1,1,25,4.5,14/10/2019,5,5,4,compliance
+40,Antineoplastic,100,Guayaquil ,982,1,25,4.8,16/10/2019,3.6,6.6,2.7,compliance
+41,Antineoplastic,100,Guayaquil ,982,1,25,4.8,16/10/2019,3.8,6.2,2.9,compliance
+42,Antineoplastic,100,Guayaquil ,982,1,25,4.8,16/10/2019,3.6,6.4,2.7,compliance
+43,Antineoplastic,100,Guayaquil ,1218,17,80,4.8,16/10/2019,3.8,7,2.8,compliance
+44,Antineoplastic,100,Guayaquil ,1218,17,80,4.8,16/10/2019,3.5,6.4,2.6,compliance
+45,Antineoplastic,100,Guayaquil ,1218,17,80,4.8,16/10/2019,3.5,6.2,2.8,compliance
+46,Antineoplastic,100,Guayaquil ,1218,17,80,4.8,16/10/2019,3.3,6.7,1.6,non-compliance 
+47,Antineoplastic,100,Guayaquil ,1218,17,80,4.8,16/10/2019,3.5,6.5,2.4,compliance
+48,Antineoplastic,100,Guayaquil ,1218,17,80,4.8,16/10/2019,3.7,7.4,2.8,compliance
+49,Antineoplastic,100,Quito,3,1,25,5,17/10/2019,5,7,2,compliance
+50,Antineoplastic,30,Quito,3,1,25,5,17/10/2019,5,7,2,compliance
+51,Antineoplastic,80,Cuenca,2,1,25,5,17/10/2019,3.6,7,3.1,compliance
+52,Antineoplastic,30,Quito,2,1,25,5,18/10/2019,4.7,5.9,4.3,compliance
+53,Antineoplastic,100,Quito,3,1,25,5,18/10/2019,4.7,5.9,4.3,compliance
+54,Antineoplastic,300,Quito,2,1,80,5,21/10/2019,5.4,5.9,4.8,compliance
+55,Antineoplastic,20,Quito,6,1,80,5,21/10/2019,5.4,5.9,4.8,compliance
+56,Antineoplastic,80,Quito,3,1,80,5,21/10/2019,5.4,5.9,4.8,compliance
+57,Antineoplastic,80,Cuenca,260,3,80,4.6,21/10/2019,3,6,2,compliance
+58,Antineoplastic,80,Cuenca,260,3,80,4.6,21/10/2019,2,6,2,compliance
+59,Antineoplastic,80,Cuenca,260,1,25,4.6,21/10/2019,2.5,5.8,1.8,non-compliance 
+60,Antineoplastic,80,Cuenca,260,1,25,4.6,21/10/2019,3.2,5.4,2.1,compliance
+61,Antineoplastic,80,Quito,1,1,25,5,21/10/2019,4.1,5.7,3.5,compliance
+62,Antineoplastic,150,Cuenca,5,1,25,4.3,21/10/2019,3,8,2,compliance
+63,Antineoplastic,150,Guayaquil ,3,1,25,5,23/10/2019,5,6,4,compliance
+64,Antineoplastic,100,Guayaquil ,6,1,25,4.3,30/10/2019,4.4,8.8,3.7,non-compliance 
+65,Antineoplastic,30,Guayaquil ,2,1,25,4.3,30/10/2019,4.4,8.8,3.7,non-compliance 
+66,Antineoplastic,100,Guayaquil ,4,1,25,4.6,30/10/2019,3.3,6.9,2.8,compliance
+67,Antineoplastic,80,Guayaquil ,6,1,80,5,30/10/2019,4.1,6.8,3.6,compliance
+68,Antineoplastic,80,Guayaquil ,14,1,80,5,30/10/2019,4.1,6.8,3.6,compliance
+69,Antineoplastic,150,Guayaquil ,4,1,25,5,29/10/2019,3.4,6.4,2.8,compliance
+70,Antineoplastic,80,Quito,1,1,25,5,28/10/2019,4.9,6.8,4.5,compliance
+71,Antineoplastic,20,Quito,1,1,25,5,28/10/2019,4.9,6.8,4.5,compliance
+72,Antineoplastic,80,Quito,3,1,25,4.4,28/10/2019,4.3,5.9,3.8,compliance
+73,Antineoplastic,20,Quito,6,1,25,4.4,28/10/2019,4.3,5.9,3.8,compliance
+74,Granulocyte Stimulator,0.3,Quito,40,1,80,4.4,28/10/2019,5.1,7,4.5,compliance
+75,Antineoplastic,150,Quito,5,1,25,4.5,28/10/2019,4.1,6.6,2.2,compliance
+76,Antineoplastic,80,Guayaquil ,4,1,80,5,28/10/2019,3.7,7.4,3.2,compliance
+77,Antineoplastic,150,Guayaquil ,10,1,80,5,28/10/2019,3.7,7.4,3.2,compliance
+78,Antineoplastic,20,Guayaquil ,8,1,80,5,28/10/2019,3.7,7.4,3.2,compliance
+79,Antineoplastic,150,Guayaquil ,7,1,25,5,28/10/2019,2.7,5.6,2.3,compliance
+80,Antineoplastic,100,Guayaquil ,50,1,80,4.6,28/10/2019,2.7,6.6,2.2,compliance
+81,Antineoplastic,80,Guayaquil ,200,3,80,5,28/10/2019,3.1,5.5,2.6,compliance
+82,Antineoplastic,80,Quito,3,1,25,4.6,25/10/2019,5,6,5,compliance
+83,Antineoplastic,300,Guayaquil ,1,1,80,4.6,24/10/2019,4.8,6.4,4.3,compliance
+84,Granulocyte Stimulator,0.3,Guayaquil ,15,1,80,4.6,24/10/2019,4.8,6.4,4.3,compliance
+85,Antineoplastic,80,Cuenca,2,1,80,5,24/10/2019,4,6,3,compliance
+86,Antineoplastic,150,Cuenca,2,1,80,5,24/10/2019,4,6,3,compliance
+87,Antineoplastic,300,Cuenca,1,1,80,5,24/10/2019,4,6,3,compliance
+88,Antineoplastic,30,Cuenca,10,1,80,5,24/10/2019,4,6,3,compliance
+89,Antineoplastic,20,Cuenca,2,1,80,5,24/10/2019,4,6,3,compliance
+90,Antineoplastic,80,Quito,4,1,80,4.8,05/11/2019,5,6.7,3.3,compliance
+91,Granulocyte Stimulator,0.3,Quito,10,1,80,4.8,05/11/2019,5,6.7,3.3,compliance
+92,Antineoplastic,20,Quito,3,1,80,4.8,05/11/2019,5,6.7,3.3,compliance
+93,Antineoplastic,150,Guayaquil ,4,1,25,4.8,05/11/2019,3.6,7,3,compliance
+94,Antineoplastic,300,Quito,2,1,25,5,05/11/2019,5,6.1,4.8,compliance
+95,Antineoplastic,300,Cuenca,3,1,80,4.8,05/11/2019,3.1,5.8,1.9,non-compliance 
+96,Antineoplastic,150,Cuenca,5,1,80,4.8,05/11/2019,3.1,5.8,1.9,non-compliance 
+97,Antineoplastic,80,Loja,40,1,80,4.8,06/11/2019,4,7,2,compliance
+98,Antineoplastic,20,Loja,40,1,80,4.8,06/11/2019,4,7,2,compliance
+99,Antineoplastic,20,Ambato ,200,3,80,4.3,06/11/2019,4,6,2,compliance
+100,Antineoplastic,30,Quito,7,1,25,4.4,06/11/2019,4,6,4,compliance
+101,Antineoplastic,100,Quito,4,1,25,4.4,06/11/2019,4,6,4,compliance
+102,Antineoplastic,100,Cuenca,3,1,80,4.8,07/11/2019,4.4,6.4,3.5,compliance
+103,Antineoplastic,30,Cuenca,5,1,80,4.8,07/11/2019,4.4,6.4,3.5,compliance
+104,Antineoplastic,80,Cuenca,3,1,80,4.8,07/11/2019,4.4,6.4,3.5,compliance
+105,Antineoplastic,150,Cuenca,6,1,80,4.8,07/11/2019,4.4,6.4,3.5,compliance
+106,Antineoplastic,20,Cuenca,5,1,80,4.8,07/11/2019,4.4,6.4,3.5,compliance
+107,Granulocyte Stimulator,0.3,Quito,5,1,25,4.8,07/11/2019,3.1,6.7,2.4,compliance
+108,Antineoplastic,30,Quito,30,1,25,4.8,07/11/2019,3.6,6,1.8,non-compliance 
+109,Antineoplastic,30,Quito,100,1,80,4.8,07/11/2019,3.1,6.1,2,compliance
+110,Antineoplastic,80,Quito,4,1,80,4.8,11/11/2019,4.1,6.6,3.6,compliance
+111,Granulocyte Stimulator,0.3,Quito,15,1,80,4.8,11/11/2019,4.1,6.6,3.6,compliance
+112,Antineoplastic,20,Quito,3,1,80,4.8,11/11/2019,4.1,6.6,3.6,compliance
+113,Antineoplastic,20,Quito,5,1,80,4.8,11/11/2019,4.1,6.6,3.6,compliance
+114,Antineoplastic,80,Quito,2,1,25,4.8,08/11/2019,5.6,6.4,4.4,compliance
+115,Antineoplastic,20,Quito,1,1,25,4.8,08/11/2019,5.6,6.4,4.4,compliance
+116,Antineoplastic,100,Guayaquil ,2,1,25,4.8,11/11/2019,1.7,6.5,1,non-compliance 
+117,Antineoplastic,100,Guayaquil ,11,1,25,4.8,11/11/2019,1.7,6.5,1,non-compliance 
+118,Antineoplastic,150,Guayaquil ,20,1,25,4.8,11/11/2019,2.2,6.6,1.4,non-compliance 
+119,Antineoplastic,80,Quito,334,4,80,4.8,11/11/2019,3,5.9,2.2,compliance
+120,Antineoplastic,80,Quito,334,4,80,4.8,11/11/2019,2.8,6.1,2.1,compliance
+121,Antineoplastic,300,Guayaquil ,2,1,25,4.8,13/11/2019,2.7,7.4,2.1,compliance
+122,Antineoplastic,100,Guayaquil ,4,1,80,5,14/11/2019,5,7,4,compliance
+123,Antineoplastic,30,Guayaquil ,2,1,80,5,14/11/2019,5,7,4,compliance
+124,Antineoplastic,300,Guayaquil ,2,1,80,5,14/11/2019,5,7,4,compliance
+125,Antineoplastic,150,Guayaquil ,2,1,80,5,14/11/2019,5,7,4,compliance
+126,Antineoplastic,300,Quito,2,1,25,5,14/11/2019,4,6.1,2.8,compliance
+127,Antineoplastic,300,Guayaquil ,6,1,80,5,14/11/2019,3,6.3,2.4,compliance
+128,Antineoplastic,150,Guayaquil ,6,1,80,5,14/11/2019,3,6.3,2.4,compliance
+129,Antineoplastic,80,Quito,4,1,80,5,19/11/2019,3.7,7,2.2,compliance
+130,Granulocyte Stimulator,0.3,Quito,40,1,80,5,19/11/2019,3.7,7,2.2,compliance
+131,Antineoplastic,20,Quito,1,1,80,5,19/11/2019,3.7,7,2.2,compliance
+132,Antineoplastic,150,Guayaquil ,1,1,25,5,19/11/2019,4.7,6.4,3.9,compliance
+133,Antineoplastic,150,Guayaquil ,2,1,80,5,19/11/2019,3.8,6.8,3.2,compliance
+134,Granulocyte Stimulator,0.3,Guayaquil ,20,1,80,5,19/11/2019,3.8,6.8,3.2,compliance
+135,Antineoplastic,80,Quito,3,1,25,5,19/11/2019,3.5,6.7,0.9,non-compliance 
+136,Granulocyte Stimulator,0.3,Quito,5,1,25,5,19/11/2019,4,6,4,compliance
+137,Antineoplastic,80,Portoviejo ,60,1,80,5,19/11/2019,3.9,6.9,2.6,compliance
+138,Antineoplastic,300,Cuenca,1,1,25,5,18/11/2019,3.2,6.2,2.1,compliance
+139,Antineoplastic,100,Quito,4,1,25,5,18/11/2019,5,5.7,4.9,compliance
+140,Antineoplastic,30,Quito,2,1,25,5,18/11/2019,5,5.7,4.9,compliance
+141,Antineoplastic,20,Quito,3,1,25,4.8,21/11/2019,5.2,7.8,4.7,compliance
+142,Antineoplastic,80,Quito,6,1,25,4.8,21/11/2019,4.1,7.5,3.4,compliance
+143,Antineoplastic,20,Quito,5,1,25,4.8,21/11/2019,4.1,7.5,3.4,compliance
+144,Antineoplastic,100,Quito,44,1,80,5,20/11/2019,3.7,6.6,3.2,compliance
+145,Antineoplastic,100,Quito,6,1,80,5,20/11/2019,3.7,6.6,3.2,compliance
+146,Antineoplastic,100,Quito,15,2,80,4.8,25/11/2019,3.8,6.3,2.4,compliance
+147,Antineoplastic,100,Quito,15,2,80,4.8,25/11/2019,3.8,6.3,2.4,compliance
+148,Antineoplastic,300,Quito,15,2,80,4.8,25/11/2019,4,5,3,compliance
+149,Antineoplastic,150,Quito,15,2,80,4.8,25/11/2019,4,5,3,compliance
+150,Antineoplastic,100,Quito,100,3,80,5,25/11/2019,3.2,5.4,1.9,non-compliance 
+151,Antineoplastic,300,Quito,50,3,80,5,25/11/2019,3.7,5.4,2.4,compliance
+152,Antineoplastic,150,Quito,50,3,80,5,25/11/2019,3.2,5.3,1.8,non-compliance 
+153,Antineoplastic,100,Quito,2,1,25,5,25/11/2019,3.7,6.6,2.2,compliance
+154,Antineoplastic,300,Quito,1,1,25,5,25/11/2019,3.7,6.6,2.2,compliance
+155,Antineoplastic,150,Quito,3,1,25,5,25/11/2019,3.7,6.6,2.2,compliance
+156,Antineoplastic,20,Cuenca,4,1,25,5,25/11/2019,3.1,6.2,2.5,compliance
+157,Antineoplastic,30,Cuenca,4,1,25,5,25/11/2019,3.1,6.2,2.5,compliance
+158,Antineoplastic,80,Cuenca,2,1,25,5,25/11/2019,3.1,6.2,2.5,compliance
+159,Antineoplastic,100,Guayaquil ,6,1,80,4.8,25/11/2019,3.8,6,2.8,compliance
+160,Antineoplastic,300,Guayaquil ,4,1,80,4.8,25/11/2019,3.8,6,2.8,compliance
+161,Antineoplastic,20,Quito,350,6,80,4.8,25/11/2019,3.5,5.5,2.2,compliance
+162,Antineoplastic,20,Quito,350,6,80,4.8,25/11/2019,3,5.1,1.9,non-compliance 
+163,Antineoplastic,20,Quito,150,1,25,4.8,25/11/2019,3.7,5.4,2.6,compliance
+164,Antineoplastic,20,Quito,150,1,25,4.8,25/11/2019,2.6,5.4,1.4,non-compliance 
+165,Antineoplastic,20,Guayaquil ,4,1,25,4.8,25/11/2019,2.5,5.6,1.3,non-compliance 
+166,Antineoplastic,80,Guayaquil ,6,1,25,4.8,25/11/2019,2.5,5.6,1.3,non-compliance 
+167,Antineoplastic,100,Guayaquil ,7,1,25,4.8,25/11/2019,3,6.3,2.2,compliance
+168,Antineoplastic,150,Guayaquil ,2,1,25,4.8,25/11/2019,3.1,5.8,1.9,non-compliance 
+169,Antineoplastic,20,Quito,150,2,80,4.8,25/11/2019,3,5,2,compliance
+170,Antineoplastic,80,Riobamba,5,1,25,4.8,25/11/2019,4.1,6,3.2,compliance
+171,Granulocyte Stimulator,0.3,Guayaquil ,10,1,25,5,26/11/2019,3.5,6.4,2.2,compliance
+172,Antineoplastic,150,Guayaquil ,10,1,25,5,26/11/2019,4.1,6.8,3.4,compliance
+173,Antineoplastic,30,Guayaquil ,6,1,25,4.8,27/11/2019,3.7,7.4,2.8,compliance
+174,Antineoplastic,300,Cuenca,2,1,80,4.6,09/12/2019,2.9,5.4,1.9,non-compliance 
+175,Antineoplastic,30,Cuenca,10,1,80,4.6,09/12/2019,2.9,5.4,1.9,non-compliance 
+176,Antineoplastic,150,Cuenca,5,1,80,4.6,09/12/2019,2.9,5.4,1.9,non-compliance 
+177,Antineoplastic,80,Cuenca,3,1,80,4.6,09/12/2019,2.9,5.4,1.9,non-compliance 
+178,Antineoplastic,80,Quito,31,6,80,4.8,09/12/2019,3,5,3,compliance
+179,Antineoplastic,80,Quito,70,6,80,4.8,09/12/2019,2.4,5.4,1.9,non-compliance 
+180,Antineoplastic,80,Quito,299,6,80,4.8,09/12/2019,2.4,5.4,1.9,non-compliance 
+181,Antineoplastic,80,Cuenca,446,7,80,4.8,09/12/2019,2.4,6.6,1.4,non-compliance 
+182,Antineoplastic,80,Cuenca,446,7,80,4.8,09/12/2019,2.3,6.3,1.4,non-compliance 
+183,Antineoplastic,80,Cuenca,70,7,80,4.8,09/12/2019,2.3,6.3,1.6,non-compliance 
+184,Antineoplastic,100,Guayaquil ,1,1,80,4.7,09/12/2019,4,5,3,compliance
+185,Antineoplastic,300,Guayaquil ,3,1,80,4.7,09/12/2019,4,5,3,compliance
+186,Antineoplastic,100,Guayaquil ,100,1,80,4.8,09/12/2019,3,5,3,compliance
+187,Antineoplastic,80,Quito,120,2,80,4.8,09/12/2019,2.1,5.3,1.8,non-compliance 
+188,Antineoplastic,20,Quito,2,1,25,5,10/12/2019,4.8,6.6,4.5,compliance
+189,Antineoplastic,80,Quito,2,1,25,5,10/12/2019,4.8,6.6,4.5,compliance
+190,Granulocyte Stimulator,0.3,Guayaquil ,80,1,80,4.8,02/12/2019,3.2,5.3,1.3,non-compliance 
+191,Granulocyte Stimulator,0.3,Quito,10,1,25,4.8,02/12/2019,3.7,6.9,3.1,compliance
+192,Antineoplastic,20,Riobamba,13,1,80,5,02/12/2019,4,5,2,compliance
+193,Antineoplastic,80,Riobamba,18,1,80,5,02/12/2019,4,5,2,compliance
+194,Antineoplastic,30,Guayaquil ,20,2,80,4.8,02/12/2019,3,6,2,compliance
+195,Antineoplastic,20,Guayaquil ,30,2,80,4.8,02/12/2019,3,6,2,compliance
+196,Antineoplastic,80,Guayaquil ,50,2,80,4.8,02/12/2019,2.9,6,1.9,non-compliance 
+197,Antineoplastic,150,Guayaquil ,6,1,80,4.8,02/12/2019,3,6,2,compliance
+198,Granulocyte Stimulator,0.3,Guayaquil ,12,1,80,4.8,02/12/2019,3,6,2,compliance
+199,Antineoplastic,20,Loja,35,1,80,4.8,02/12/2019,4,6,2,compliance
+200,Antineoplastic,80,Loja,35,1,80,4.8,02/12/2019,4,6,2,compliance
+201,Antineoplastic,80,Portoviejo ,210,3,80,4.8,02/12/2019,3,5,2,compliance
+202,Antineoplastic,80,Portoviejo ,210,3,80,4.8,02/12/2019,3,5,2,compliance
+203,Antineoplastic,80,Portoviejo ,210,3,80,4.8,02/12/2019,4,6,2,compliance
+204,Antineoplastic,20,Quito,2,1,25,5,10/12/2019,4.8,6.6,4.5,compliance
+205,Antineoplastic,80,Quito,2,1,25,5,10/12/2019,4.8,6.6,4.5,compliance
+206,Antineoplastic,150,Guayaquil ,4,1,25,4.8,10/12/2019,3.8,7.3,2.5,compliance
+207,Antineoplastic,80,Quito,2,1,25,5,11/12/2019,3.5,6.1,1.8,non-compliance 
+208,Antineoplastic,300,Quito,1,1,25,4.5,12/12/2019,5.2,6.6,4.7,compliance
+209,Antineoplastic,20,Quito,6,1,25,4.5,12/12/2019,5.2,6.6,4.7,compliance
+210,Antineoplastic,100,Cuenca,5,1,25,4.8,12/12/2019,3.3,7.2,2.8,compliance
+211,Antineoplastic,30,Cuenca,4,1,25,4.8,12/12/2019,3.3,7.2,2.8,compliance
+212,Antineoplastic,150,Cuenca,4,1,25,4.8,12/12/2019,3.3,7.2,2.8,compliance
+213,Antineoplastic,100,Quito,4,1,25,4.8,12/12/2019,4.3,6.8,3.1,compliance
+214,Antineoplastic,30,Quito,4,1,25,4.8,12/12/2019,4.3,6.8,3.1,compliance
+215,Antineoplastic,80,Quito,4,1,25,4.6,12/12/2019,4.2,7.3,2,compliance
+216,Antineoplastic,30,Cuenca,10,1,25,4.5,03/12/2019,3.2,6.4,2.2,compliance
+217,Antineoplastic,150,Cuenca,4,1,25,4.5,03/12/2019,3.2,6.4,2.2,compliance
+218,Granulocyte Stimulator,0.3,Quito,20,1,80,4.5,04/12/2019,4.6,5.7,4.1,compliance
+219,Antineoplastic,300,Quito,3,1,80,4.6,04/12/2019,4.6,5.9,4.1,compliance
+220,Antineoplastic,300,Quito,1,1,80,5,11/12/2019,5,6.8,4.6,compliance
+221,Antineoplastic,20,Quito,6,1,80,5,11/12/2019,5,6.8,4.6,compliance
+222,Antineoplastic,150,Quito,4,1,80,5,11/12/2019,5,6.8,4.6,compliance
+223,Antineoplastic,80,Quito,3,1,80,5,11/12/2019,5,6.8,4.6,compliance
+224,Antineoplastic,300,Quito,4,1,80,4.8,11/12/2019,4.5,6.7,4.1,compliance
+225,Antineoplastic,300,Guayaquil ,3,1,80,4.8,16/12/2019,4,6,3,compliance
+226,Antineoplastic,20,Guayaquil ,5,1,80,4.8,16/12/2019,4,6,3,compliance
+227,Antineoplastic,80,Guayaquil ,8,1,80,4.8,16/12/2019,4,6,3,compliance
+228,Granulocyte Stimulator,0.3,Guayaquil ,20,1,80,4.8,16/12/2019,4,6,3,compliance
+229,Antineoplastic,20,Quito,2,1,25,4.8,16/12/2019,5,7,5,compliance
+230,Antineoplastic,80,Quito,2,1,25,4.8,16/12/2019,5,7,5,compliance
+231,Antineoplastic,150,Guayaquil ,10,1,25,4.8,16/12/2019,3,5.4,2.1,compliance
+232,Antineoplastic,20,Guayaquil ,6,1,25,4.8,16/12/2019,3,5.4,2.1,compliance
+233,Antineoplastic,80,Cuenca,252,3,80,4.8,16/12/2019,3.6,6.7,2.2,compliance
+234,Antineoplastic,80,Cuenca,252,3,80,4.8,16/12/2019,3.4,7.2,1.9,non-compliance 
+235,Antineoplastic,80,Cuenca,252,3,80,4.8,16/12/2019,3.7,7.1,2.3,compliance
+236,Antineoplastic,30,Guayaquil ,5,1,25,4.8,16/12/2019,4.2,6.5,2.4,compliance
+237,Antineoplastic,100,Quito,3,1,80,4.8,16/12/2019,5.5,7.4,4.7,compliance
+238,Antineoplastic,300,Quito,2,1,80,4.8,16/12/2019,5.5,7.4,4.7,compliance
+239,Antineoplastic,150,Quito,1,1,80,4.8,16/12/2019,5.5,7.4,4.7,compliance
+240,Antineoplastic,150,Quito,3,1,80,4.8,16/12/2019,5.5,7.4,4.7,compliance
+241,Antineoplastic,20,Quito,1,1,80,4.8,16/12/2019,5.5,7.4,4.7,compliance
+242,Granulocyte Stimulator,0.3,Quito,2,1,80,4.8,16/12/2019,5.5,7.4,4.7,compliance
+243,Antineoplastic,30,Quito,2,1,80,4.8,16/12/2019,5.5,7.4,4.7,compliance
+244,Antineoplastic,20,Quito,9,1,80,4.8,16/12/2019,5.5,7.4,4.7,compliance
+245,Antineoplastic,80,Quito,9,1,80,4.8,16/12/2019,5.5,7.4,4.7,compliance
+246,Granulocyte Stimulator,0.3,Quito,18,1,80,4.8,16/12/2019,5.5,7.4,4.7,compliance
+247,Antineoplastic,80,Guayaquil ,18,3,80,4.8,18/12/2019,3,6,3,compliance
+248,Antineoplastic,80,Guayaquil ,210,3,80,4.8,18/12/2019,3,7,3,compliance
+249,Antineoplastic,30,Guayaquil ,4,1,25,4.8,18/12/2019,2.5,6.2,1.3,non-compliance 
+250,Antineoplastic,100,Guayaquil ,5,1,25,4.8,18/12/2019,2.5,6.2,1.3,non-compliance 
+251,Antineoplastic,300,Guayaquil ,4,1,80,4.8,18/12/2019,4.4,6.8,3.3,compliance
+252,Antineoplastic,300,Quito,2,1,80,4.8,18/12/2019,4.3,5.9,3.2,compliance
+253,Antineoplastic,100,Guayaquil ,5,1,25,4.8,19/12/2019,3.7,6.8,2.2,compliance
+254,Antineoplastic,100,Guayaquil ,25,1,25,4.8,19/12/2019,3.7,6.3,3,compliance
+255,Antineoplastic,100,Guayaquil ,2,1,25,4.8,19/12/2019,5,6.6,2.8,compliance
+256,Antineoplastic,300,Guayaquil ,2,1,80,4.8,23/12/2019,3.2,5.5,2.5,compliance
+257,Antineoplastic,150,Guayaquil ,2,1,80,4.8,23/12/2019,3.2,5.5,2.5,compliance
+258,Antineoplastic,80,Quito,3,1,80,4.8,02/01/2020,4.4,6.3,2.7,compliance
+259,Granulocyte Stimulator,0.3,Quito,40,1,80,4.8,02/01/2020,4.4,6.3,2.7,compliance
+260,Antineoplastic,300,Quito,1,1,80,5,06/01/2020,3.4,5.6,2.8,compliance
+261,Antineoplastic,80,Quito,4,1,80,5,06/01/2020,3.4,5.6,2.8,compliance
+262,Antineoplastic,20,Quito,8,1,80,5,06/01/2020,3.4,5.6,2.8,compliance
+263,Antineoplastic,300,Cuenca,1,1,80,5,06/01/2020,3.5,6.3,2.6,compliance
+264,Antineoplastic,80,Cuenca,10,1,80,5,06/01/2020,3.5,6.3,2.6,compliance
+265,Antineoplastic,20,Cuenca,10,1,80,5,06/01/2020,3.5,6.3,2.6,compliance
+266,Antineoplastic,100,Quito,4,1,25,4.8,06/01/2020,2.5,5.9,1.8,non-compliance 
+267,Antineoplastic,30,Quito,3,1,25,4.8,06/01/2020,2.5,5.9,1.8,non-compliance 
+268,Antineoplastic,80,Quito,2,1,25,4.8,06/01/2020,2.5,5.9,1.8,non-compliance 
+269,Granulocyte Stimulator,0.3,Guayaquil ,95,2,80,4.8,06/01/2020,4.3,6.5,1.7,non-compliance 
+270,Granulocyte Stimulator,0.3,Guayaquil ,105,2,80,4.8,06/01/2020,4.3,6.5,1.7,non-compliance 
+271,Antineoplastic,80,Guayaquil ,100,2,80,4.8,06/01/2020,4,6.5,3.2,compliance
+272,Antineoplastic,20,Guayaquil ,60,2,80,4.8,06/01/2020,2.5,6.3,1.9,non-compliance 
+273,Antineoplastic,80,Quito,1,1,80,4.8,06/01/2020,4.3,6.6,2.7,compliance
+274,Granulocyte Stimulator,0.3,Quito,40,1,80,4.8,06/01/2020,4.3,6.6,2.7,compliance
+275,Antineoplastic,80,Quito,5,1,25,4.8,06/01/2020,5,7,4,compliance
+276,Antineoplastic,20,Quito,2,1,25,4.8,06/01/2020,5,7,4,compliance
+277,Antineoplastic,100,Guayaquil ,14,1,25,4.8,06/01/2020,4.2,6.6,1.4,non-compliance 
+278,Antineoplastic,20,Guayaquil ,4,1,25,5,06/01/2020,3.4,6.4,1.5,non-compliance 
+279,Antineoplastic,300,Quito,5,1,80,4.8,08/01/2020,3.7,5.9,2.4,compliance
+280,Antineoplastic,150,Quito,4,1,80,4.8,08/01/2020,3.7,5.9,2.4,compliance
+281,Granulocyte Stimulator,0.3,Quito,15,1,80,4.8,08/01/2020,3.7,6.2,3.1,compliance
+282,Antineoplastic,80,Ambato ,40,1,80,4.8,09/01/2020,4.2,7.1,3.2,compliance
+283,Antineoplastic,30,Quito,14,4,80,4.8,13/01/2020,3,5.5,2.1,compliance
+284,Antineoplastic,30,Quito,36,4,80,4.8,13/01/2020,3,5.5,2.1,compliance
+285,Antineoplastic,100,Quito,60,4,80,4.8,13/01/2020,3,5.5,2.1,compliance
+286,Antineoplastic,20,Quito,25,4,80,4.8,13/01/2020,3.8,6.1,3.1,compliance
+287,Antineoplastic,20,Quito,175,4,80,4.8,13/01/2020,3.8,6.1,3.1,compliance
+288,Antineoplastic,30,Quito,9,2,80,4.8,13/01/2020,3.1,5.2,2.4,compliance
+289,Antineoplastic,30,Quito,6,2,80,4.8,13/01/2020,3.1,5.2,2.4,compliance
+290,Antineoplastic,100,Quito,18,2,80,4.8,13/01/2020,3.1,5.2,2.4,compliance
+291,Antineoplastic,20,Quito,60,2,80,4.8,13/01/2020,3.1,5.2,2.4,compliance
+292,Antineoplastic,30,Cuenca,2,1,25,4.8,13/01/2020,2.2,5.2,1.6,non-compliance 
+293,Antineoplastic,80,Cuenca,4,1,25,4.8,13/01/2020,2.2,5.2,1.6,non-compliance 
+294,Antineoplastic,150,Cuenca,7,1,25,4.8,13/01/2020,2.2,5.2,1.6,non-compliance 
+295,Antineoplastic,100,Cuenca,1,1,25,4.8,13/01/2020,2.2,5.2,1.6,non-compliance 
+296,Antineoplastic,80,Guayaquil ,6,1,25,4.8,13/01/2020,4,5,3,compliance
+297,Antineoplastic,150,Guayaquil ,15,1,25,4.8,13/01/2020,4,5,3,compliance
+298,Antineoplastic,300,Guayaquil ,4,1,25,4.8,13/01/2020,4,5,3,compliance
+299,Antineoplastic,20,Guayaquil ,12,1,25,4.8,13/01/2020,4,5,3,compliance
+300,Antineoplastic,80,Quito,1,1,25,4.8,13/01/2020,5.5,6.1,4.7,compliance
+301,Antineoplastic,20,Quito,2,1,25,4.8,13/01/2020,5.5,6.1,4.7,compliance
+302,Antineoplastic,150,Guayaquil ,50,1,80,4.8,13/01/2020,4,4.8,2.9,compliance
+303,Antineoplastic,300,Guayaquil ,2,1,25,5,14/01/2020,3.8,7,2.9,compliance
+304,Antineoplastic,80,Quito,1,1,25,5,16/01/2020,3.4,5.9,2.7,compliance
+305,Granulocyte Stimulator,0.3,Quito,5,1,25,5,16/01/2020,3.4,5.9,2.7,compliance
+306,Antineoplastic,100,Quito,3,1,25,4.8,17/01/2020,4.7,6.3,4.4,compliance
+307,Antineoplastic,300,Quito,2,1,25,4.8,17/01/2020,4.7,6.3,4.4,compliance
+308,Antineoplastic,100,Quito,1,1,25,4.8,17/01/2020,4.8,7.5,4.3,compliance
+309,Antineoplastic,300,Quito,2,1,25,4.8,17/01/2020,4.8,7.5,4.3,compliance
+310,Antineoplastic,100,Quito,4,1,25,4.8,17/01/2020,4.9,6.8,4.6,compliance
+311,Antineoplastic,300,Quito,2,1,25,4.8,17/01/2020,4.9,6.8,4.6,compliance
+312,Antineoplastic,80,Cuenca,4,1,25,4.8,20/01/2020,2.8,6.3,2.2,compliance
+313,Antineoplastic,300,Cuenca,1,1,25,4.8,20/01/2020,2.8,6.3,2.2,compliance
+314,Antineoplastic,20,Cuenca,4,1,25,4.8,20/01/2020,3,6.1,2.4,compliance
+315,Granulocyte Stimulator,0.3,Quito,20,1,80,4.8,20/01/2020,5.6,6.4,5.4,compliance
+316,Antineoplastic,150,Quito,4,1,80,4.8,20/01/2020,5.6,6.4,5.4,compliance
+317,Antineoplastic,100,Guayaquil ,6,1,25,4.8,20/01/2020,5.1,7.6,1.9,non-compliance 
+318,Antineoplastic,150,Guayaquil ,4,1,25,4.8,20/01/2020,3.6,6.6,2.2,compliance
+319,Granulocyte Stimulator,0.3,Guayaquil ,122,2,80,4.8,20/01/2020,4,6.7,1.9,non-compliance 
+320,Antineoplastic,80,Quito,1,1,25,4.8,21/01/2020,5,6,4,compliance
+321,Antineoplastic,20,Quito,1,1,25,4.8,21/01/2020,5,6,4,compliance
+322,Antineoplastic,300,Guayaquil ,4,1,80,4.8,21/01/2020,4,5,3,compliance
+323,Antineoplastic,150,Quito,7,1,25,4.8,21/01/2020,5,7,4,compliance
+324,Granulocyte Stimulator,0.3,Quito,40,1,80,4.8,22/01/2020,5,6,4,compliance
+325,Antineoplastic,80,Guayaquil ,82,1,80,4.8,22/01/2020,3,5,3,compliance
+326,Granulocyte Stimulator,0.3,Guayaquil ,40,1,80,4.8,22/01/2020,4,6,3,compliance
+327,Antineoplastic,300,Quito,2,1,25,4.8,23/01/2020,3.9,6.9,3.1,compliance
+328,Antineoplastic,300,Quito,2,1,80,4.8,27/01/2020,5.8,7.2,5.4,compliance
+329,Antineoplastic,20,Quito,1,1,80,4.8,27/01/2020,5.8,7.2,5.4,compliance
+330,Antineoplastic,80,Quito,5,1,80,4.8,27/01/2020,5.8,7.2,5.4,compliance
+331,Antineoplastic,30,Quito,5,1,80,4.8,27/01/2020,5.8,7.2,5.4,compliance
+332,Antineoplastic,20,Quito,9,1,80,4.8,27/01/2020,5.8,7.2,5.4,compliance
+333,Antineoplastic,80,Quito,1,1,25,4.8,27/01/2020,4.8,7.3,4.1,compliance
+334,Antineoplastic,20,Quito,1,1,25,4.8,27/01/2020,4.8,7.3,4.1,compliance
+335,Granulocyte Stimulator,0.3,Quito,4,1,25,5,27/01/2020,5.4,6.8,4.9,compliance
+336,Granulocyte Stimulator,0.3,Quito,1,1,25,5,27/01/2020,5.4,6.8,4.9,compliance
+337,Antineoplastic,300,Quito,4,1,80,4.8,27/01/2020,4.8,7.6,4.2,compliance
+338,Antineoplastic,80,Loja,2,1,80,4.6,04/02/2020,3.7,7.4,2,compliance
+339,Antineoplastic,20,Loja,5,1,80,4.6,04/02/2020,3.7,7.4,2,compliance
+340,Granulocyte Stimulator,0.3,Quito,30,1,80,4.6,04/02/2020,4,5,3,compliance
+341,Antineoplastic,20,Guayaquil ,6,1,25,4.8,05/02/2020,4,6,3,compliance
+342,Antineoplastic,80,Guayaquil ,100,2,80,4.8,05/02/2020,4,5,3,compliance
+343,Antineoplastic,80,Guayaquil ,100,2,80,4.8,05/02/2020,4.6,5.6,4.3,compliance
+344,Antineoplastic,20,Cuenca,15,1,80,4.8,10/02/2020,2.6,4.8,1.3,non-compliance 
+345,Antineoplastic,150,Quito,3,1,80,4.8,11/02/2020,5,5,4,compliance
+346,Antineoplastic,300,Quito,3,1,80,4.8,11/02/2020,5,5,4,compliance
+347,Antineoplastic,300,Guayaquil ,1,1,25,4.8,11/02/2020,3,6,3,compliance
+348,Antineoplastic,150,Quito,4,1,25,4.8,11/02/2020,4,6,3,compliance
+349,Antineoplastic,300,Quito,1,1,25,4.8,11/02/2020,4,5,4,compliance
+350,Antineoplastic,150,Ambato ,45,3,80,4.8,13/02/2020,3.4,5.4,2,compliance
+351,Antineoplastic,150,Ambato ,45,3,80,4.8,13/02/2020,3.1,5.4,1.8,non-compliance 
+352,Antineoplastic,300,Ambato ,40,3,80,4.8,13/02/2020,4,5.5,3.1,compliance
+353,Antineoplastic,30,Quito,15,1,25,4.8,13/02/2020,5,6,5,compliance
+354,Antineoplastic,30,Quito,50,1,80,4.8,13/02/2020,5,6,5,compliance
+355,Antineoplastic,20,Quito,2,1,25,4.8,18/02/2020,4.3,5.7,3.9,compliance
+356,Antineoplastic,20,Quito,90,1,80,5,02/03/2020,3.4,5.3,2.8,compliance
+357,Antineoplastic,20,Quito,300,4,80,5,02/03/2020,3.1,5.2,2.6,compliance
+358,Antineoplastic,20,Quito,300,4,80,5,02/03/2020,3.4,5.4,2.8,compliance
+359,Antineoplastic,300,Cuenca,3,1,80,4.8,03/03/2020,3.4,6.5,2.1,compliance
+360,Antineoplastic,20,Cuenca,3,1,80,4.8,03/03/2020,3.4,6.5,2.1,compliance
+361,Granulocyte Stimulator,0.3,Guayaquil ,6,1,25,4.8,05/03/2020,5.3,7.8,4.4,compliance
+362,Antineoplastic,100,Guayaquil ,600,5,80,4.8,05/03/2020,3.4,5.5,2.9,compliance
+363,Antineoplastic,100,Guayaquil ,600,5,80,4.8,05/03/2020,3.2,5.1,2.7,compliance
+364,Granulocyte Stimulator,0.3,Guayaquil ,150,2,80,4.8,05/03/2020,3.3,5.6,2.6,compliance
+365,Antineoplastic,100,Quito,128,4,80,4.8,09/03/2020,4,8,3,compliance
+366,Antineoplastic,100,Quito,409,4,80,4.8,09/03/2020,4,8,3,compliance
+367,Antineoplastic,80,Guayaquil ,20,2,80,4.8,09/03/2020,7.9,4.1,3.2,compliance
+368,Antineoplastic,80,Guayaquil ,79,2,80,4.8,09/03/2020,7.9,4.1,3.2,compliance
+369,Granulocyte Stimulator,0.3,Quito,5,1,25,4.8,09/03/2020,4.2,6.5,3.6,compliance
+370,Antineoplastic,80,Guayaquil ,50,1,80,4.8,09/03/2020,3.9,6.1,3.3,compliance
+371,Antineoplastic,80,Guayaquil ,300,4,80,4.8,09/03/2020,3.1,5.7,2.5,compliance
+372,Antineoplastic,80,Guayaquil ,300,4,80,4.8,09/03/2020,3.3,5.8,2.6,compliance
+373,Antineoplastic,80,Guayaquil ,229,5,80,4.8,10/03/2020,3.9,5.5,3.6,compliance
+374,Antineoplastic,80,Guayaquil ,2,5,80,4.8,10/03/2020,3.9,5.5,3.6,compliance
+375,Antineoplastic,80,Guayaquil ,129,5,80,4.8,10/03/2020,3.3,5.1,2.9,compliance
+376,Antineoplastic,80,Quito,5,1,80,4.8,17/03/2020,4.2,5.2,3.9,compliance
+377,Granulocyte Stimulator,0.3,Quito,35,1,80,4.8,17/03/2020,4.2,5.2,3.9,compliance
+378,Antineoplastic,20,Quito,12,1,80,4.8,17/03/2020,4.2,5.2,3.9,compliance
+379,Antineoplastic,100,Quito,78,6,80,4.8,18/03/2020,5.1,5.6,4.4,compliance
+380,Antineoplastic,100,Quito,22,6,80,4.8,18/03/2020,4.9,5.4,4.4,compliance
+381,Antineoplastic,300,Quito,20,6,80,4.8,18/03/2020,4.9,5.4,4.4,compliance
+382,Antineoplastic,300,Quito,50,6,80,4.8,18/03/2020,4.8,5.6,4.1,compliance
+383,Antineoplastic,150,Quito,100,6,80,4.8,18/03/2020,4.8,5.6,4.1,compliance
+384,Antineoplastic,100,Quito,30,3,80,5,18/03/2020,4.7,5.4,4.1,compliance
+385,Antineoplastic,300,Quito,21,3,80,5,18/03/2020,5.2,5.9,4.8,compliance
+386,Antineoplastic,150,Quito,30,3,80,5,18/03/2020,5.2,5.9,4.8,compliance
+387,Granulocyte Stimulator,0.3,Quito,28,1,80,5,18/03/2020,5.8,6.3,5.5,compliance
+388,Antineoplastic,80,Cuenca,2,1,25,4.8,05/01/2021,2.7,7.05,1.95,non-compliance 
+389,Antineoplastic,20,Cuenca,6,1,25,4.8,05/01/2021,2.7,7.05,1.95,non-compliance 
+390,Antineoplastic,80,Guayaquil,5,1,80,4.8,05/01/2021,4.5,7,4,compliance 
+391,Antineoplastic,300,Guayaquil,5,1,80,4.8,05/01/2021,4.5,7,4,compliance 
+392,Antineoplastic,100,Guayaquil,7,1,25,4.8,05/01/2021,4.1,7.3,4,compliance 
+393,Antineoplastic,20,Quito,6,1,80,4.8,06/01/2021,4.7,6.1,4.4,compliance 
+394,Antineoplastic,80,Quito,3,1,80,4.8,06/01/2021,4.7,6.1,4.4,compliance 
+395,Granulocyte Stimulator,0.3,Quito,7,1,80,4.8,06/01/2021,4.7,6.1,4.4,compliance 
+396,Antineoplastic,100,Quito,8,1,80,4.8,06/01/2021,4.7,6.1,4.4,compliance 
+397,Antineoplastic,150,Quito,8,1,80,4.8,06/01/2021,4.7,6.1,4.4,compliance 
+398,Antineoplastic,20,Ambato,51,1,80,4.8,06/01/2021,4.1,5.8,3,compliance 
+399,Antineoplastic,20,Ambato,85,1,80,4.8,06/01/2021,4.4,5.9,3.2,compliance 
+400,Antineoplastic,20,Ambato,84,1,80,4.8,06/01/2021,4.5,5.9,3.5,compliance 
+401,Antineoplastic,80,Ambato,50,1,80,4.8,06/01/2021,4.3,6,3.2,compliance 
+402,Antineoplastic,80,Ambato,50,1,80,4.8,06/01/2021,4.3,6.3,2.5,compliance 
+403,Antineoplastic,150,Ambato,30,1,80,4.8,06/01/2021,4.3,5.9,2.9,compliance 
+404,Antineoplastic,300,Ambato,33,1,80,4.8,06/01/2021,4.9,5.9,3.7,compliance 
+405,Antineoplastic,300,Ambato,17,1,80,4.8,06/01/2021,4.6,5.5,3.1,compliance 
+406,Antineoplastic,20,Quito,20,1,80,4.8,11/01/2021,5.3,5.7,5.2,compliance 
+407,Antineoplastic,80,Quito,25,1,80,4.8,11/01/2021,5.3,5.7,5.2,compliance 
+408,Antineoplastic,300,Quito,5,1,80,4.8,11/01/2021,5.3,5.7,5.2,compliance 
+409,Antineoplastic,30,Guayaquil,10,1,25,4.8,11/01/2021,4.4,7.3,3.7,compliance 
+410,Antineoplastic,80,Guayaquil,2,1,80,4.7,12/01/2021,3.7,5.7,3.1,compliance 
+411,Antineoplastic,150,Guayaquil,10,1,80,4.7,12/01/2021,3.7,5.7,3.1,compliance 
+412,Granulocyte Stimulator,0.3,Guayaquil,10,1,80,4.7,12/01/2021,3.7,5.7,3.1,compliance 
+413,Antineoplastic,150,Guayaquil,7,1,25,4.7,12/01/2021,3.4,6.3,2.7,compliance 
+414,Antineoplastic,150,Guayaquil,3,1,25,4.7,12/01/2021,3.4,6.3,2.7,compliance 
+415,Antineoplastic,300,Guayaquil,5,1,80,4.9,12/01/2021,4.2,5.9,3.5,compliance 
+416,Antineoplastic,30,Quito,12,1,80,4.8,13/01/2021,5.3,6.5,4.8,compliance 
+417,Antineoplastic,80,Quito,2,1,80,4.8,13/01/2021,5.3,6.5,4.8,compliance 
+418,Antineoplastic,20,Quito,2,1,80,4.8,13/01/2021,5.3,6.5,4.8,compliance 
+419,Granulocyte Stimulator,0.3,Quito,7,1,80,4.8,13/01/2021,5.3,6.5,4.8,compliance 
+420,Antineoplastic,100,Guayaquil,3,1,80,4.9,13/01/2021,4,6.1,3.5,compliance 
+421,Antineoplastic,300,Guayaquil,5,1,80,4.9,13/01/2021,4,6.1,3.5,compliance 
+422,Antineoplastic,20,Guayaquil,2,1,80,4.9,13/01/2021,4,6.1,3.5,compliance 
+423,Antineoplastic,300,Guayaquil,5,1,80,4.9,13/01/2021,3.8,6.1,3,compliance 
+424,Antineoplastic,80,Ambato,3,1,80,4.7,18/01/2021,4.5,6.5,3.2,compliance 
+425,Antineoplastic,80,Ambato,83,1,80,4.7,18/01/2021,4.3,7.3,2.3,compliance 
+426,Antineoplastic,80,Ambato,14,1,80,4.7,18/01/2021,4.1,6.2,2.4,compliance 
+427,Antineoplastic,150,Ambato,10,1,80,4.7,18/01/2021,3.9,6.2,2.5,compliance 
+428,Antineoplastic,150,Ambato,10,1,80,4.7,18/01/2021,4.1,7.8,2.6,compliance 
+429,Antineoplastic,20,Ambato,100,1,80,4.7,18/01/2021,4.3,6.5,3.1,compliance 
+430,Antineoplastic,20,Ambato,100,1,80,4.7,18/01/2021,3.8,6.3,2.4,compliance 
+431,Antineoplastic,300,Ambato,5,1,80,4.7,18/01/2021,4.1,7.3,3,compliance 
+432,Antineoplastic,300,Ambato,5,1,80,4.7,18/01/2021,4.5,7,3.1,compliance 
+433,Granulocyte Stimulator,0.3,Ambato,127,1,80,4.7,18/01/2021,4.5,6.8,2.5,compliance 
+434,Granulocyte Stimulator,0.3,Ambato,100,1,80,4.7,18/01/2021,4.6,6.6,3.1,compliance 
+435,Granulocyte Stimulator,0.3,Ambato,773,1,80,4.7,18/01/2021,4.9,6.2,3.3,compliance 
+436,Granulocyte Stimulator,0.3,Ambato,100,1,80,4.7,18/01/2021,4.3,7,3.2,compliance 
+437,Granulocyte Stimulator,0.3,Ambato,100,1,80,4.7,18/01/2021,4.7,6.4,3.9,compliance 
+438,Granulocyte Stimulator,0.3,Quito,10,1,25,4.9,19/01/2021,5.2,8.82,4.33,non-compliance 
+439,Antineoplastic,20,Quito,100,3,80,4.7,20/01/2021,4.3,6.6,3.8,compliance 
+440,Antineoplastic,20,Quito,89,3,80,4.7,20/01/2021,4.1,5.7,3.3,compliance 
+441,Antineoplastic,20,Quito,11,3,80,4.7,20/01/2021,5.4,5.7,4.8,compliance 
+442,Antineoplastic,20,Quito,60,1,80,4.5,20/01/2021,4.2,5.6,3.9,compliance 
+443,Antineoplastic,20,Quito,100,3,80,4.7,25/01/2021,4.2,6.4,3.9,compliance 
+444,Antineoplastic,20,Quito,89,3,80,4.7,25/01/2021,3.7,6.8,3,compliance 
+445,Antineoplastic,20,Quito,11,3,80,4.7,25/01/2021,3.4,6.7,3.1,compliance 
+446,Antineoplastic,20,Quito,60,1,80,4.8,25/01/2021,3.7,6.9,3.2,compliance 
+447,Antineoplastic,80,Guayaquil,6,1,25,4.7,02/02/2021,4.7,6.8,4.4,compliance 
+448,Antineoplastic,80,Cuenca,3,1,25,4.8,02/02/2021,3.5,6,2.3,compliance 
+449,Antineoplastic,150,Quito,2,1,80,4.9,02/02/2021,5.2,7,4.6,compliance 
+450,Antineoplastic,300,Quito,2,1,80,4.9,02/02/2021,5.2,7,4.6,compliance 
+451,Antineoplastic,150,Cuenca,5,1,25,4.8,02/02/2021,3,5.7,2.5,compliance 
+452,Antineoplastic,300,Guayaquil,20,3,80,4.9,03/02/2021,3.9,5.6,3.7,compliance 
+453,Antineoplastic,300,Guayaquil,20,3,80,4.9,03/02/2021,3.9,5.9,3.2,compliance 
+454,Antineoplastic,300,Guayaquil,20,3,80,4.9,03/02/2021,3.7,5.8,3.1,compliance 
+455,Antineoplastic,20,Guayaquil,1,1,25,4.9,03/02/2021,3.6,6.2,2.9,compliance 
+456,Granulocyte Stimulator,0.3,Quito,30,1,80,4.9,03/02/2021,5,5.5,4.8,compliance 
+457,Antineoplastic,20,Cuenca,4,1,25,4.9,03/02/2021,3.3,5.9,2.7,compliance 
+458,Antineoplastic,150,Quito,15,1,25,4.9,03/02/2021,3.6,5.9,3,compliance 
+459,Antineoplastic,30,Quito,50,1,80,4.8,03/02/2021,4.4,7.2,4,compliance 
+460,Antineoplastic,150,Quito,50,1,80,4.8,03/02/2021,3.8,7.2,3.5,compliance 
+461,Antineoplastic,20,Quito,12,1,25,4.8,03/02/2021,4.2,6.3,3.6,compliance 
+462,Antineoplastic,100,Quito,51,3,80,4.9,04/02/2021,3.5,5.7,2.6,compliance 
+463,Antineoplastic,100,Quito,200,3,80,4.9,04/02/2021,3.7,5.9,2.9,compliance 
+464,Antineoplastic,100,Quito,53,3,80,4.9,04/02/2021,3.6,5.7,2.6,compliance 
+465,Antineoplastic,300,Quito,30,3,80,4.9,04/02/2021,3.8,5.5,3.2,compliance 
+466,Antineoplastic,300,Quito,10,3,80,4.9,04/02/2021,3.9,5.5,3.4,compliance 
+467,Antineoplastic,300,Quito,10,3,80,4.9,04/02/2021,3.6,5.5,3.2,compliance 
+468,Antineoplastic,300,Quito,15,1,80,4.9,04/02/2021,3.6,5.8,3.5,compliance 
+469,Antineoplastic,100,Quito,9,1,25,4.9,04/02/2021,3.1,6.5,2.5,compliance 
+470,Antineoplastic,100,Quito,30,1,80,4.9,04/02/2021,4.6,6.7,3.8,compliance 
+471,Antineoplastic,300,Guayaquil,7,1,80,4.9,05/02/2021,5.1,5.8,3.5,compliance 
+472,Antineoplastic,300,Guayaquil,8,1,80,4.9,05/02/2021,5.1,5.8,3.5,compliance 
+473,Antineoplastic,80,Quito,3,1,25,4.7,05/02/2021,4.3,6.4,3.9,compliance 
+474,Antineoplastic,20,Quito,5,1,25,4.9,05/02/2021,3.9,5.9,3.6,compliance 
+475,Granulocyte Stimulator,0.3,Quito,18,1,25,4.9,05/02/2021,4.7,6.3,3.7,compliance 
+476,Antineoplastic,150,Ambato,7,1,25,4.9,08/02/2021,3.8,6.9,2.8,compliance 
+477,Antineoplastic,150,Cuenca,4,1,25,4.9,08/02/2021,2.8,7,2.2,compliance 
+478,Granulocyte Stimulator,0.3,Quito,70,1,80,4.9,08/02/2021,4.8,5.6,4.5,compliance 
+479,Antineoplastic,80,Loja,10,1,25,4.7,09/02/2021,2.3,6.43,0.62,non-compliance 
+480,Granulocyte Stimulator,0.3,Quito,17,1,25,4.7,11/02/2021,4.6,6.8,4,compliance 
+481,Antineoplastic,80,Cuenca,3,1,25,4.7,11/02/2021,2.6,6.53,1.92,non-compliance 
+482,Antineoplastic,20,Cuenca,3,1,25,4.7,11/02/2021,2.6,6.53,1.92,non-compliance 
+483,Antineoplastic,20,Quito,2,1,25,4.9,11/02/2021,3.4,6.8,3.1,compliance 
+484,Antineoplastic,30,Guayaquil,6,1,25,4.9,17/02/2021,2.4,6.05,1.65,non-compliance 
+485,Antineoplastic,30,Guayaquil,1,1,25,4.9,17/02/2021,2.4,6.05,1.65,non-compliance 
+486,Antineoplastic,30,Guayaquil,2,1,25,4.9,17/02/2021,2.4,6.05,1.65,non-compliance 
+487,Antineoplastic,80,Quito,8,1,80,4.9,17/02/2021,5.8,6.6,5.2,compliance 
+488,Antineoplastic,20,Quito,8,1,80,4.9,17/02/2021,5.8,6.6,5.2,compliance 
+489,Granulocyte Stimulator,0.3,Quito,100,1,80,4.9,17/02/2021,5.8,6.6,5.2,compliance 
+490,Antineoplastic,150,Quito,8,1,80,4.9,17/02/2021,3.8,5.5,2.8,compliance 
+491,Antineoplastic,300,Quito,5,1,80,4.9,17/02/2021,3.8,5.5,2.8,compliance 
+492,Antineoplastic,150,Quito,2,1,25,4.9,17/02/2021,3.4,6.5,2.9,compliance 
+493,Antineoplastic,100,Quito,3,1,25,4.9,17/02/2021,3.4,6.5,2.9,compliance 
+494,Granulocyte Stimulator,0.3,Quito,50,1,80,4.8,17/02/2021,4.9,6.3,4.1,compliance 
+495,Granulocyte Stimulator,0.3,Quito,10,1,25,4.9,17/02/2021,3,6.6,2.2,compliance 
+496,Granulocyte Stimulator,0.3,Quito,66,1,80,4.8,17/02/2021,4.3,7.1,3.5,compliance 
+497,Antineoplastic,150,Guayaquil,2,1,80,4.8,18/02/2021,4.5,6.3,4.1,compliance 
+498,Antineoplastic,100,Guayaquil,4,1,80,4.8,18/02/2021,4.5,6.3,4.1,compliance 
+499,Antineoplastic,80,Guayaquil,2,1,80,4.8,18/02/2021,4.5,6.3,4.1,compliance 
+500,Antineoplastic,300,Guayaquil,2,1,80,4.8,18/02/2021,4.5,6.3,4.1,compliance 
+501,Antineoplastic,20,Guayaquil,4,1,80,4.8,18/02/2021,4.5,6.3,4.1,compliance 
+502,Antineoplastic,100,Guayaquil,101,2,80,4.9,18/02/2021,3.6,7,2.8,compliance 
+503,Antineoplastic,100,Guayaquil,100,2,80,4.9,18/02/2021,4.4,8.62,2.52,non-compliance 
+504,Antineoplastic,300,Guayaquil,6,1,80,4.7,18/02/2021,4.3,6.1,3.9,compliance 
+505,Antineoplastic,80,Quito,30,1,80,4.8,18/02/2021,4.6,6.7,4.4,compliance 
+506,Antineoplastic,150,Guayaquil,5,1,25,4.8,22/02/2021,2.8,6.2,2,compliance 
+507,Antineoplastic,80,Guayaquil,1,1,25,4.8,22/02/2021,2.8,6.2,2,compliance 
+508,Antineoplastic,100,Guayaquil,1,1,25,4.8,22/02/2021,2.8,6.2,2,compliance 
+509,Granulocyte Stimulator,0.3,Guayaquil,15,1,25,4.8,22/02/2021,2.8,6.2,2,compliance 
+510,Antineoplastic,80,Quito,16,1,80,4.8,22/02/2021,5.6,8.42,5.21,non-compliance 
+511,Antineoplastic,150,Guayaquil,3,1,25,4.9,23/02/2021,3.1,5.51,1.92,non-compliance 
+512,Antineoplastic,80,Guayaquil,2,1,25,4.9,23/02/2021,3.1,5.51,1.92,non-compliance 
+513,Antineoplastic,20,Guayaquil,2,1,25,4.9,23/02/2021,3.1,5.51,1.92,non-compliance 
+514,Granulocyte Stimulator,0.3,Guayaquil,7,1,25,4.9,23/02/2021,3.1,5.51,1.92,non-compliance 
+515,Antineoplastic,150,Guayaquil,5,2,80,4.9,23/02/2021,3.8,6.4,2.7,compliance 
+516,Antineoplastic,100,Guayaquil,10,2,80,4.9,23/02/2021,5.1,6.7,3.7,compliance 
+517,Antineoplastic,300,Guayaquil,25,2,80,4.9,23/02/2021,5.1,6.7,3.7,compliance 
+518,Antineoplastic,20,Quito,5,1,25,4.9,23/02/2021,3.5,6.4,3.2,compliance 
+519,Granulocyte Stimulator,0.3,Guayaquil,50,1,80,4.9,23/02/2021,5,5.8,5.2,compliance 
+520,Antineoplastic,150,Guayaquil,10,1,25,4.9,23/02/2021,2.4,6.23,1.92,non-compliance 
+521,Antineoplastic,20,Guayaquil,2,1,25,4.8,24/02/2021,5.2,8.83,2.82,non-compliance 
+522,Granulocyte Stimulator,0.3,Guayaquil,3,1,25,4.8,24/02/2021,5.2,8.83,2.82,non-compliance 
+523,Antineoplastic,300,Quito,2,1,25,4.8,01/03/2021,3.6,7,3.3,compliance 
+524,Antineoplastic,80,Loja,9,1,80,4.9,02/03/2021,3.8,5.5,2.1,compliance 
+525,Antineoplastic,80,Loja,6,1,80,4.9,02/03/2021,3.8,5.5,2.1,compliance 
+526,Antineoplastic,20,Loja,30,1,80,4.9,02/03/2021,3.8,5.5,2.1,compliance 
+527,Antineoplastic,80,Guayaquil,1,1,25,4.9,02/03/2021,3.3,6.2,2.7,compliance 
+528,Antineoplastic,300,Guayaquil,1,1,25,4.9,02/03/2021,3.3,6.2,2.7,compliance 
+529,Antineoplastic,100,Guayaquil,1,1,25,4.9,02/03/2021,3.3,6.2,2.7,compliance 
+530,Antineoplastic,20,Guayaquil,3,1,25,4.8,02/03/2021,4.5,6,3.9,compliance 
+531,Granulocyte Stimulator,0.3,Guayaquil,3,1,25,4.8,02/03/2021,4.5,6,3.9,compliance 
+532,Antineoplastic,300,Quito,13,8,80,4.7,09/03/2021,3.2,6.9,2.4,compliance 
+533,Antineoplastic,300,Quito,87,8,80,4.7,09/03/2021,3.7,6.4,3.2,compliance 
+534,Antineoplastic,100,Quito,25,8,80,4.7,09/03/2021,3.6,6.5,2.6,compliance 
+535,Antineoplastic,100,Quito,25,8,80,4.7,09/03/2021,3.8,5.9,3.3,compliance 
+536,Antineoplastic,100,Quito,50,8,80,4.7,09/03/2021,3.5,5.9,2.9,compliance 
+537,Antineoplastic,150,Quito,25,8,80,4.7,09/03/2021,4,6.2,3.1,compliance 
+538,Antineoplastic,150,Quito,25,8,80,4.7,09/03/2021,3.6,6.1,2.8,compliance 
+539,Antineoplastic,150,Quito,50,8,80,4.7,09/03/2021,3.4,5.9,2.8,compliance 
+540,Antineoplastic,300,Quito,30,3,80,4.9,09/03/2021,3,5.8,2.6,compliance 
+541,Antineoplastic,100,Quito,30,3,80,4.9,09/03/2021,3.1,5.9,2.6,compliance 
+542,Antineoplastic,150,Quito,30,3,80,4.9,09/03/2021,3.6,6.4,3.1,compliance 
+543,Antineoplastic,80,Quito,80,1,80,4.9,09/03/2021,3.7,4.9,3.2,compliance 
+544,Antineoplastic,80,Cuenca,5,1,25,4.9,09/03/2021,2.7,5.4,2,compliance 
+545,Antineoplastic,20,Cuenca,5,1,25,4.9,09/03/2021,2.7,5.4,2,compliance 
+546,Antineoplastic,80,Quito,100,6,80,4.8,10/03/2021,3.7,5.8,3,compliance 
+547,Antineoplastic,20,Quito,100,6,80,4.8,10/03/2021,3.3,6,2.6,compliance 
+548,Antineoplastic,20,Quito,50,6,80,4.8,10/03/2021,3.4,6.2,2.8,compliance 
+549,Antineoplastic,20,Quito,50,6,80,4.8,10/03/2021,3,6.1,2.8,compliance 
+550,Antineoplastic,20,Quito,35,6,80,4.8,10/03/2021,4.2,6.4,3.7,compliance 
+551,Antineoplastic,20,Quito,15,6,80,4.8,10/03/2021,3.1,6,2.5,compliance 
+552,Antineoplastic,80,Quito,30,2,80,4.7,10/03/2021,3.4,6.4,2.5,compliance 
+553,Antineoplastic,20,Quito,75,2,80,4.7,10/03/2021,3.5,6.3,2.8,compliance 
+554,Antineoplastic,80,Quito,2,1,25,4.9,11/03/2021,4.1,5.6,3.8,compliance 
+555,Antineoplastic,20,Quito,1,1,25,4.9,11/03/2021,4.1,5.6,3.8,compliance 
+556,Antineoplastic,300,Ambato,50,5,80,4.9,15/03/2021,3.5,5.5,2.1,compliance 
+557,Antineoplastic,150,Ambato,50,5,80,4.9,15/03/2021,3.8,5.5,2.7,compliance 
+558,Granulocyte Stimulator,0.3,Ambato,100,5,80,4.9,15/03/2021,3.6,5.5,2.5,compliance 
+559,Granulocyte Stimulator,0.3,Ambato,100,5,80,4.9,15/03/2021,3.9,5.5,2.9,compliance 
+560,Granulocyte Stimulator,0.3,Ambato,100,5,80,4.9,15/03/2021,3.9,5.4,2.6,compliance 
+561,Antineoplastic,80,Guayaquil,3,1,25,4.9,15/03/2021,3,6.1,2.2,compliance 
+562,Antineoplastic,100,Quito,100,1,80,4.9,15/03/2021,4.5,5.8,4.1,compliance 
+563,Antineoplastic,100,Guayaquil,100,2,80,4.8,16/03/2021,3.8,7.6,3.1,compliance 
+564,Antineoplastic,100,Guayaquil,100,2,80,4.8,16/03/2021,2.9,6.1,2.4,compliance 
+565,Granulocyte Stimulator,0.3,Quito,10,1,25,4.9,17/03/2021,5.3,6,5.3,compliance 
+566,Antineoplastic,300,Quito,2,1,25,4.9,17/03/2021,4.3,6.5,4,compliance 
+567,Antineoplastic,300,Guayaquil,5,1,80,4.9,18/03/2021,3.6,6.4,3,compliance 
+568,Antineoplastic,300,Guayaquil,1,1,80,4.9,18/03/2021,3.6,6.4,3,compliance 
+569,Antineoplastic,100,Guayaquil,3,1,80,4.9,18/03/2021,3.6,6.4,3,compliance 
+570,Antineoplastic,80,Quito,10,1,80,4.7,22/03/2021,4.6,6,4.3,compliance 
+571,Antineoplastic,20,Quito,6,1,80,4.7,22/03/2021,4.6,6,4.3,compliance 
+572,Antineoplastic,20,Quito,4,1,80,4.7,22/03/2021,4.6,6,4.3,compliance 
+573,Granulocyte Stimulator,0.3,Guayaquil,5,1,25,4.7,29/03/2021,4.2,7.2,2.2,compliance 
+574,Antineoplastic,100,Cuenca,2,1,25,4.7,29/03/2021,3.4,6,2.5,compliance 
+575,Antineoplastic,80,Guayaquil,1,1,25,4.9,05/04/2021,3.8,7.4,3.5,compliance 
+576,Antineoplastic,150,Guayaquil,10,1,25,4.9,05/04/2021,3.8,7.4,3.5,compliance 
+577,Antineoplastic,100,Quito,3,1,25,4.9,05/04/2021,4.1,6.2,2.4,compliance 
+578,Antineoplastic,20,Cuenca,10,1,25,4.9,05/04/2021,2.2,6.21,1.22,non-compliance 
+579,Antineoplastic,300,Quito,6,1,80,4.9,05/04/2021,4.4,6.1,4,compliance 
+580,Antineoplastic,20,Quito,8,1,25,4.9,05/04/2021,2.7,6,2.5,compliance 
+581,Antineoplastic,80,Quito,16,6,80,4.9,06/04/2021,3.5,6,2.8,compliance 
+582,Antineoplastic,80,Quito,84,6,80,4.9,06/04/2021,3.5,6,2.8,compliance 
+583,Antineoplastic,20,Quito,189,6,80,4.9,06/04/2021,3.5,6,2.8,compliance 
+584,Antineoplastic,20,Quito,61,6,80,4.9,06/04/2021,3.5,6,2.8,compliance 
+585,Antineoplastic,300,Quito,30,4,80,4.9,06/04/2021,4.1,5.6,3.7,compliance 
+586,Antineoplastic,100,Quito,30,4,80,4.9,06/04/2021,4.1,5.6,3.7,compliance 
+587,Antineoplastic,150,Quito,30,4,80,4.9,06/04/2021,4.1,5.6,3.7,compliance 
+588,Antineoplastic,80,Quito,30,2,80,4.8,06/04/2021,4.1,5.6,3.5,compliance 
+589,Antineoplastic,20,Quito,75,2,80,4.8,06/04/2021,4.1,5.6,3.5,compliance 
+590,Antineoplastic,300,Quito,9,9,80,4.9,06/04/2021,4.1,7,3.4,compliance 
+591,Antineoplastic,300,Quito,91,9,80,4.9,06/04/2021,3.8,7.1,3.4,compliance 
+592,Antineoplastic,100,Quito,100,9,80,4.9,06/04/2021,3.8,7.1,3.4,compliance 
+593,Antineoplastic,150,Quito,72,9,80,4.9,06/04/2021,3.8,7.1,3.4,compliance 
+594,Antineoplastic,150,Quito,28,9,80,4.9,06/04/2021,3.8,7.1,3.4,compliance 
+595,Antineoplastic,20,Cuenca,11,1,25,4.9,06/04/2021,2.4,6.51,1.62,non-compliance 
+596,Antineoplastic,20,Ambato,12,1,80,4.9,06/04/2021,4.6,6,3.5,compliance 
+597,Antineoplastic,150,Ambato,6,1,80,4.9,06/04/2021,4.6,6,3.5,compliance 
+598,Antineoplastic,20,Loja,15,1,80,4.9,06/04/2021,3.8,6.5,2.1,compliance 
+599,Antineoplastic,300,Guayaquil,5,1,80,4.8,06/04/2021,3.7,6,3.2,compliance 
+600,Antineoplastic,150,Guayaquil,4,1,25,4.9,06/04/2021,3,5.5,2.5,compliance 
+601,Antineoplastic,20,Guayaquil,6,1,25,4.7,06/04/2021,2.3,5.79,1.98,non-compliance 
+602,Antineoplastic,20,Guayaquil,10,1,25,4.7,06/04/2021,2.4,5.3,2.1,compliance 
+603,Antineoplastic,100,Guayaquil,10,1,80,4.9,06/04/2021,4.2,5.5,3.6,compliance 
+604,Antineoplastic,20,Guayaquil,8,1,80,4.9,06/04/2021,4.2,5.5,3.6,compliance 
+605,Antineoplastic,100,Quito,6,1,25,4.7,06/04/2021,4.5,6.2,3.7,compliance 
+606,Antineoplastic,100,Quito,157,8,80,4.6,07/04/2021,3.6,6.9,2.9,compliance 
+607,Antineoplastic,100,Quito,400,8,80,4.6,07/04/2021,3.3,6.2,2.6,compliance 
+608,Antineoplastic,100,Quito,300,8,80,4.6,07/04/2021,3.2,6.4,2.4,compliance 
+609,Antineoplastic,100,Quito,115,8,80,4.6,07/04/2021,3.6,6.4,2.3,compliance 
+610,Antineoplastic,20,Ambato,40,2,80,4.8,07/04/2021,3.8,6.42,1.92,non-compliance 
+611,Antineoplastic,150,Ambato,20,2,80,4.8,07/04/2021,3.8,6.42,1.92,non-compliance 
+612,Antineoplastic,20,Quito,10,1,25,4.9,07/04/2021,5.7,6,5.4,compliance 
+613,Antineoplastic,300,Ambato,50,3,80,4.9,07/04/2021,3.8,6.2,2.4,compliance 
+614,Antineoplastic,300,Ambato,50,3,80,4.9,07/04/2021,4.1,6.4,2.6,compliance 
+615,Antineoplastic,150,Guayaquil,5,1,25,4.9,07/04/2021,2.9,5.8,2.2,compliance 
+616,Antineoplastic,20,Cuenca,20,1,80,4.8,08/04/2021,3.2,6.2,2.1,compliance 
+617,Antineoplastic,300,Guayaquil,1,1,25,4.9,08/04/2021,3.5,5.4,3.3,compliance 
+618,Antineoplastic,80,Loja,70,1,80,4.6,12/04/2021,4.2,5.7,3.7,compliance 
+619,Antineoplastic,150,Guayaquil,100,1,80,4.7,12/04/2021,2.5,5.72,1.52,non-compliance 
+620,Antineoplastic,150,Guayaquil,50,1,25,4.7,12/04/2021,3.2,6.79,-3.32,non-compliance 
+621,Antineoplastic,150,Quito,6,1,25,4.7,14/04/2021,4.8,6.7,4.4,compliance 
+622,Antineoplastic,20,Guayaquil,10,1,25,4.7,14/04/2021,4.1,6.4,2.9,compliance 
+623,Antineoplastic,80,Guayaquil,5,1,25,4.7,14/04/2021,4.9,7.6,4.8,compliance 
+624,Antineoplastic,80,Guayaquil,5,1,25,4.7,14/04/2021,4,6.9,4,compliance 
+625,Antineoplastic,150,Quito,5,1,25,4.8,15/04/2021,4.1,6.5,3.2,compliance 
+626,Antineoplastic,80,Quito,1,1,25,4.8,15/04/2021,4.1,6.5,3.2,compliance 
+627,Antineoplastic,80,Quito,6,1,25,4.8,15/04/2021,4.1,6.5,3.2,compliance 
+628,Antineoplastic,20,Quito,10,1,80,4.8,15/04/2021,5,6.3,4.7,compliance 
+629,Antineoplastic,80,Quito,5,1,80,4.8,15/04/2021,5,6.3,4.7,compliance 
+630,Antineoplastic,80,Quito,10,1,25,4.8,15/04/2021,5.3,7.7,5.3,compliance 
+631,Antineoplastic,100,Guayaquil,87,1,25,4.8,19/04/2021,3.7,6.4,3.1,compliance 
+632,Antineoplastic,100,Guayaquil,153,2,80,4.8,19/04/2021,3.9,5.9,3.1,compliance 
+633,Antineoplastic,100,Guayaquil,10,2,80,4.8,19/04/2021,2.9,6.2,2,compliance 
+634,Antineoplastic,20,Guayaquil,10,1,25,4.7,19/04/2021,3.1,5.83,1.32,non-compliance 
+635,Antineoplastic,100,Cuenca,4,1,25,4.8,20/04/2021,2.6,5.62,1.92,non-compliance 
+636,Antineoplastic,150,Cuenca,8,1,25,4.8,20/04/2021,2.6,5.62,1.92,non-compliance 
+637,Antineoplastic,100,Guayaquil,100,2,80,4.8,21/04/2021,4.1,6.8,3.4,compliance 
+638,Antineoplastic,100,Guayaquil,100,2,80,4.8,21/04/2021,3.8,6,3,compliance 
+639,Antineoplastic,20,Ambato,6,1,80,4.8,22/04/2021,5,6.4,3.3,compliance 
+640,Antineoplastic,80,Ambato,6,1,80,4.8,22/04/2021,5,6.4,3.3,compliance 
+641,Antineoplastic,20,Ambato,20,1,80,4.8,22/04/2021,4.3,5.6,3.8,compliance 
+642,Antineoplastic,80,Ambato,20,1,80,4.8,22/04/2021,4.3,5.6,3.8,compliance 
+643,Antineoplastic,80,Quito,8,1,25,4.8,23/04/2021,4.4,6.4,3.7,compliance 
+644,Granulocyte Stimulator,0.3,Ambato,50,4,80,4.9,26/04/2021,4.5,6.9,3.1,compliance 
+645,Granulocyte Stimulator,0.3,Ambato,55,4,80,4.9,26/04/2021,3.6,5.7,2.9,compliance 
+646,Granulocyte Stimulator,0.3,Ambato,500,4,80,4.9,26/04/2021,4.3,6.3,2.9,compliance 
+647,Granulocyte Stimulator,0.3,Ambato,95,4,80,4.9,26/04/2021,4.2,7.6,2.8,compliance 
+648,Antineoplastic,100,Cuenca,4,1,25,4.9,26/04/2021,2.6,6.53,1.42,non-compliance 
+649,Granulocyte Stimulator,0.3,Quito,40,1,80,4.8,27/04/2021,5,6.1,5.1,compliance 
+650,Antineoplastic,80,Cuenca,10,1,25,4.8,27/04/2021,2.7,6.8,2.1,compliance 
+651,Antineoplastic,100,Guayaquil,3,1,25,4.7,04/05/2021,3.5,5.8,2.2,compliance 
+652,Antineoplastic,150,Guayaquil,2,1,25,4.7,04/05/2021,3.5,5.8,2.2,compliance 
+653,Antineoplastic,80,Quito,2,1,25,4.7,04/05/2021,2,5.71,1.62,non-compliance 
+654,Antineoplastic,100,Quito,5,1,25,4.8,04/05/2021,3.3,6.2,2.8,compliance 
+655,Antineoplastic,100,Guayaquil,1,1,25,4.8,04/05/2021,4.7,7.3,2.7,compliance 
+656,Antineoplastic,80,Loja,10,1,25,4.7,04/05/2021,2.9,6.52,1.82,non-compliance 
+657,Antineoplastic,150,Guayaquil,14,1,25,4.8,05/05/2021,4.7,7.3,3.6,compliance 
+658,Antineoplastic,150,Guayaquil,1,1,25,4.8,05/05/2021,4.7,7.3,3.6,compliance 
+659,Antineoplastic,100,Quito,6,1,25,4.8,05/05/2021,5.4,6.4,5.2,compliance 
+660,Antineoplastic,150,Ambato,80,1,80,4.8,05/05/2021,4.3,6.4,3.3,compliance 
+661,Antineoplastic,150,Guayaquil,4,1,25,4.8,05/05/2021,4.7,8.32,3.62,non-compliance 
+662,Antineoplastic,20,Quito,6,1,25,4.8,06/05/2021,4.4,6.3,3.5,compliance 
+663,Antineoplastic,80,Quito,2,1,25,4.8,06/05/2021,4.1,5.8,3.9,compliance 
+664,Antineoplastic,80,Quito,158,1,80,4.7,11/05/2021,4.1,7.8,2.8,compliance 
+665,Antineoplastic,100,Quito,133,9,80,4.7,11/05/2021,3.5,5.9,2.6,compliance 
+666,Antineoplastic,100,Quito,133,9,80,4.7,11/05/2021,3.9,5.9,3.6,compliance 
+667,Antineoplastic,100,Quito,133,9,80,4.7,11/05/2021,3.8,6.2,3.1,compliance 
+668,Antineoplastic,100,Quito,133,9,80,4.7,11/05/2021,3.5,6,2.8,compliance 
+669,Antineoplastic,100,Quito,133,9,80,4.7,11/05/2021,4,6.4,2.9,compliance 
+670,Antineoplastic,100,Quito,133,9,80,4.7,11/05/2021,4.3,6.3,3.6,compliance 
+671,Antineoplastic,100,Quito,133,9,80,4.7,11/05/2021,4.2,6,3.5,compliance 
+672,Antineoplastic,100,Quito,133,9,80,4.7,11/05/2021,4.4,6.3,3.6,compliance 
+673,Antineoplastic,100,Quito,136,9,80,4.7,11/05/2021,3.7,6.2,3.4,compliance 
+674,Antineoplastic,80,Quito,5,1,25,4.8,11/05/2021,3.6,5.7,3.4,compliance 
+675,Antineoplastic,100,Quito,5,1,80,4.8,12/05/2021,5.7,7.4,5.1,compliance 
+676,Antineoplastic,100,Quito,25,1,80,4.8,12/05/2021,5.7,7.4,5.1,compliance 
+677,Antineoplastic,80,Cuenca,80,1,80,4.8,12/05/2021,3.7,6.9,2.6,compliance 
+678,Antineoplastic,100,Cuenca,100,1,80,4.7,12/05/2021,3.9,6.9,2.7,compliance 
+679,Antineoplastic,150,Ambato,10,1,80,4.8,13/05/2021,3.5,5.5,3,compliance 
+680,Antineoplastic,80,Ambato,20,1,80,4.8,13/05/2021,3.5,5.5,3,compliance 
+681,Antineoplastic,30,Quito,30,1,25,4.8,14/05/2021,5,6.4,4.2,compliance 
+682,Antineoplastic,30,Quito,100,1,80,4.8,14/05/2021,5.6,7.1,4.9,compliance 
+683,Antineoplastic,100,Guayaquil,100,1,80,4.8,18/05/2021,5.1,5.9,4.8,compliance 
+684,Antineoplastic,80,Cuenca,10,1,25,4.8,18/05/2021,4,6.4,4,compliance 
+685,Antineoplastic,20,Quito,4,1,80,4.9,21/05/2021,6.2,7.3,6,compliance 
+686,Antineoplastic,20,Quito,31,1,80,4.9,21/05/2021,6.2,7.3,6,compliance 
+687,Antineoplastic,20,Quito,25,1,80,4.9,21/05/2021,5.5,6.3,5.5,compliance 
+688,Granulocyte Stimulator,0.3,Ambato,300,5,80,4.8,25/05/2021,4.2,5.6,2.3,compliance 
+689,Antineoplastic,300,Ambato,39,5,80,4.8,25/05/2021,4.1,5.7,2.5,compliance 
+690,Antineoplastic,300,Ambato,2,5,80,4.8,25/05/2021,4.1,5.7,2.5,compliance 
+691,Antineoplastic,300,Ambato,9,5,80,4.8,25/05/2021,4.1,5.7,2.5,compliance 
+692,Antineoplastic,80,Cuenca,6,1,80,4.8,25/05/2021,4.4,6.3,3.6,compliance 
+693,Antineoplastic,20,Cuenca,16,1,80,4.8,25/05/2021,4.4,6.3,3.6,compliance 
+694,Antineoplastic,100,Guayaquil,340,4,80,4.8,25/05/2021,2.4,6.11,1.92,non-compliance 
+695,Antineoplastic,100,Guayaquil,160,4,80,4.8,25/05/2021,3.2,6.2,2.6,compliance 
+696,Antineoplastic,20,Ambato,60,1,80,4.8,25/05/2021,4.4,6.7,2.9,compliance 
+697,Antineoplastic,20,Ambato,18,1,80,4.8,25/05/2021,4.3,6.5,2.5,compliance 
+698,Antineoplastic,80,Guayaquil,250,3,80,4.8,25/05/2021,2.6,5.51,1.82,non-compliance 
+699,Antineoplastic,150,Cuenca,4,1,25,4.9,01/06/2021,3.5,5.5,2.4,compliance 
+700,Antineoplastic,20,Cuenca,4,1,25,4.9,01/06/2021,3.5,5.5,2.4,compliance 
+701,Antineoplastic,150,Guayaquil,50,1,80,4.9,01/06/2021,5,6.3,4.2,compliance 
+702,Antineoplastic,100,Guayaquil,524,4,80,4.8,02/06/2021,5.5,7.1,4.6,compliance 
+703,Antineoplastic,20,Guayaquil,10,1,25,4.8,02/06/2021,3.4,6.7,2,compliance 
+704,Antineoplastic,100,Quito,150,4,80,4.7,08/06/2021,2.8,6.23,1.92,non-compliance 
+705,Antineoplastic,80,Quito,10,4,80,4.7,08/06/2021,3.2,6.2,3,compliance 
+706,Antineoplastic,80,Quito,190,4,80,4.7,08/06/2021,3.2,6.2,3,compliance 
+707,Antineoplastic,100,Quito,45,2,80,4.7,08/06/2021,3.4,6.4,2.6,compliance 
+708,Antineoplastic,80,Quito,60,2,80,4.7,08/06/2021,2.5,6.51,1.62,non-compliance 
+709,Granulocyte Stimulator,0.3,Quito,5,1,25,4.7,08/06/2021,4.1,5.8,3.5,compliance 
+710,Granulocyte Stimulator,0.3,Guayaquil,10,1,25,4.6,08/06/2021,3.3,6.15,1.25,non-compliance 
+711,Antineoplastic,20,Quito,5,1,25,4.9,10/06/2021,4,5.2,3.8,compliance 
+712,Antineoplastic,80,Quito,4,1,25,4.9,10/06/2021,4,5.2,3.8,compliance 
+713,Antineoplastic,150,Cuenca,6,1,25,4.7,10/06/2021,4.7,6.3,4.2,compliance 
+714,Antineoplastic,80,Portoviejo,17,1,80,4.8,14/06/2021,4.4,6.8,2,compliance 
+715,Antineoplastic,150,Guayaquil,1,1,25,4.9,16/06/2021,3.7,7.33,1.72,non-compliance 
+716,Antineoplastic,150,Guayaquil,2,1,25,4.9,16/06/2021,3.7,7.33,1.72,non-compliance 
+717,Antineoplastic,150,Guayaquil,12,1,25,4.9,16/06/2021,3.7,7.33,1.72,non-compliance 
+718,Granulocyte Stimulator,0.3,Guayaquil,5,1,25,4.9,16/06/2021,3.7,7.33,1.72,non-compliance 
+719,Antineoplastic,80,Quito,16,10,80,4.9,17/06/2021,3.7,5.6,3,compliance 
+720,Antineoplastic,80,Quito,261,10,80,4.9,17/06/2021,3.1,6.1,2.5,compliance 
+721,Antineoplastic,80,Quito,261,10,80,4.9,17/06/2021,4.4,5.9,3.9,compliance 
+722,Antineoplastic,80,Quito,262,10,80,4.9,17/06/2021,5,6.2,4.3,compliance 
